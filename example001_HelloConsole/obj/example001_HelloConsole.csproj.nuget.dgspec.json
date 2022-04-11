@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GeekBrains\\языки программирования\\лекции\\examples\\example001_HelloConsole\\example001_HelloConsole.csproj": {}
+    "D:\\GeekBrains\\языки программирования\\лекции\\lesson1\\examples\\example001_HelloConsole\\example001_HelloConsole.csproj": {}
   },
   "projects": {
-    "D:\\GeekBrains\\языки программирования\\лекции\\examples\\example001_HelloConsole\\example001_HelloConsole.csproj": {
+    "D:\\GeekBrains\\языки программирования\\лекции\\lesson1\\examples\\example001_HelloConsole\\example001_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GeekBrains\\языки программирования\\лекции\\examples\\example001_HelloConsole\\example001_HelloConsole.csproj",
+        "projectUniqueName": "D:\\GeekBrains\\языки программирования\\лекции\\lesson1\\examples\\example001_HelloConsole\\example001_HelloConsole.csproj",
         "projectName": "example001_HelloConsole",
-        "projectPath": "D:\\GeekBrains\\языки программирования\\лекции\\examples\\example001_HelloConsole\\example001_HelloConsole.csproj",
+        "projectPath": "D:\\GeekBrains\\языки программирования\\лекции\\lesson1\\examples\\example001_HelloConsole\\example001_HelloConsole.csproj",
         "packagesPath": "C:\\Users\\bucas\\.nuget\\packages\\",
-        "outputPath": "D:\\GeekBrains\\языки программирования\\лекции\\examples\\example001_HelloConsole\\obj\\",
+        "outputPath": "D:\\GeekBrains\\языки программирования\\лекции\\lesson1\\examples\\example001_HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bucas\\AppData\\Roaming\\NuGet\\NuGet.Config"
