@@ -1,6 +1,5 @@
 ﻿void FillArray(int[] collection)
 {
-
     int length = collection.Length;
     int index = 0;
     while (index < length)
@@ -10,6 +9,19 @@
     }
 
 }
+void PrintArray(int[] col)
+{
+    int count = Col.Length;
+    int position = 0;
+    while (position < count)
+    {
+        Console.WriteLine(Col[position]);
+        position++;
+    }
 
+}
 
 int[] array = new int[10];// изначально заполняется нулями
+
+FillArray(array);
+PrintArray(array);
