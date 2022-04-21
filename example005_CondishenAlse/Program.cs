@@ -10,3 +10,4 @@ else
     Console.Write("Здрасьте,  ");
     Console.WriteLine(username);
 }
+// nice try
